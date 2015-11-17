@@ -13,4 +13,8 @@ Next merge the 'b' branch into the 'a' branch, you should get another merge conf
 
 Within your haiku.txt file , you should see this completed haiku:
 
-Over-ripe sushi, The Master Is full of regret.
+```
+Over-ripe sushi,
+The Master
+Is full of regret.
+```
