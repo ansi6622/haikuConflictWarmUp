@@ -1,5 +1,4 @@
 # haikuConflictWarmUp
-haikuConflictWarmUp
 Overview: Resolve merge conflicts on different branches to create one branch with a complete and correct Haiku.
 
 Directions:
@@ -11,7 +10,7 @@ Start by merging the 'c' branch into the 'b' branch. You should get a merge conf
 
 Next merge the 'b' branch into the 'a' branch, you should get another merge conflict. Keep all 3 lines and remove the conflict syntax.
 
-Within your haiku.txt file , you should see this completed haiku:
+Within the haiku.txt file in the 'a' branch, you should see this completed haiku:
 
 ```
 Over-ripe sushi,
